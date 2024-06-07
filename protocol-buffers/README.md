@@ -1,4 +1,4 @@
-## JSON anf Arrays
+## JSON and Arrays
 
 The file index.js contains a simple of a node/js program with an array of employees.
 
